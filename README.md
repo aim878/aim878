@@ -16,6 +16,8 @@
 
 I am a highly skilled **MERN Stack Developer** with extensive experience in **Senior Developer** and **System Architect** roles. My expertise includes utilizing **MongoDB**, **JavaScript**, **Node.js**, and **ReactJS** to achieve fast development and high-quality results.
 
+Beyond full-stack development, I have hands-on experience in **Artificial Intelligence & Machine Learning** — building **RAG (Retrieval-Augmented Generation)** systems, **Churn Prediction** models, intelligent **Chatbots**, and real-time **object detection** solutions using **YOLO**. I love integrating AI into real-world applications to make them smarter and more powerful.
+
 I am passionate about creating **visually appealing user interfaces** and **optimizing server-side code** to increase productivity. I am well-versed in design patterns and enjoy implementing them in my projects.
 
 ---
@@ -34,13 +36,28 @@ I am passionate about creating **visually appealing user interfaces** and **opti
 
 ### 🔷 Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### 🔷 CMS & Page Builders
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Gutenberg](https://img.shields.io/badge/Gutenberg-000000?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 🔷 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔷 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🔷 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -50,26 +67,22 @@ I am passionate about creating **visually appealing user interfaces** and **opti
 
 ---
 
-## 📊 GitHub Stats
+## 👁️ Profile Views
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aim878&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aim878&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff" height="165"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aim878&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA" />
+  <img src="https://komarev.com/ghpvc/?username=aim878&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🤖 AI Projects & Experience
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aim878&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
+| Project | Description | Tech Used |
+|--------|-------------|-----------|
+| 🔍 **RAG System** | Retrieval-Augmented Generation for intelligent document Q&A | LangChain, OpenAI, Vector DB |
+| 📉 **Churn Prediction** | ML model to predict customer churn with high accuracy | Python, scikit-learn, Pandas |
+| 💬 **Chatbots** | Intelligent conversational AI bots for real-world use cases | OpenAI, LangChain, Node.js |
+| 👁️ **YOLO** | Real-time object detection & computer vision solutions | YOLOv8, Python, OpenCV |
 
 ---
 
@@ -78,9 +91,10 @@ I am passionate about creating **visually appealing user interfaces** and **opti
 ```javascript
 const aim878 = {
   role: ["Senior Developer", "System Architect"],
-  stack: ["MongoDB", "Express.js", "React", "Node.js"],
-  otherTech: ["MySQL", "DynamoDB", "PHP", "Laravel", "CodeIgniter", "jQuery"],
-  strengths: ["Scalable Architecture", "UI/UX Design", "Server Optimization"],
+  stack: ["MongoDB", "Express.js", "React", "Node.js", "Next.js"],
+  otherTech: ["MySQL", "DynamoDB", "PHP", "Laravel", "CodeIgniter", "jQuery", "WordPress", "Gutenberg"],
+  aiExperience: ["RAG Systems", "Churn Prediction", "Chatbots", "YOLO Object Detection"],
+  strengths: ["Scalable Architecture", "UI/UX Design", "Server Optimization", "AI Integration"],
   designPatterns: ["MVC", "Singleton", "Factory", "Observer", "Repository"],
   currentFocus: "Building high-performance, scalable web applications",
   funFact: "I turn coffee into clean, optimized code ☕"
@@ -92,7 +106,7 @@ const aim878 = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aim878&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aim878&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true"/>
 </div>
 
 ---
